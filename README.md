@@ -44,7 +44,7 @@ inConstant-Android is an easy to use Android library for constant management via
             </intent-filter>
         </receiver>
 ```
-* Import inConstant.java, inConstant_GCMClientManager.java, inConstant_DB.java, PUSHDATA.java to your project.
+* Import inConstant.java, inConstant_GCMClientManager.java, inConstant_DB.java, PUSHDATA.java, PushNotificationService.java to your project.
 
 ### Example Usage
 
